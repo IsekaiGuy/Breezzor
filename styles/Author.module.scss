@@ -178,10 +178,10 @@
 }
 
 .line {
-  position: absolute;
-  top: 1592px;
-  width: 74vw;
-  margin-left: 13vw;
+  position: relative;
+  width: 1120px;
+  margin: 0 auto;
+  margin-top: 45px;
   height: 1px;
   background: #8c8c8c;
 }

@@ -30,6 +30,7 @@ const Place = () => {
           </div>
         </div>
       </div>
+      <div className={styles.line}></div>
     </div>
   );
 };
